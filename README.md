@@ -25,16 +25,15 @@
 
 ---
 
-### 🎧 Currently Listening To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME)
+
 
 ---
 
 ### 🌟 About Me
 - 🌱 Currently learning **MERN stack development**
-- 💡 Interested in building **modern, fast, and aesthetic web apps**
-- 🎯 Goal for 2025: Become a **Full Stack Developer**
-- ⚡ Fun fact: I love experimenting with UI animations and minimal design
+- 💡 Future Goals ** Wanna escape 9-5**
+
+
 
 ---
 
