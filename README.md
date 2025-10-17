@@ -34,13 +34,3 @@
 - 💡 Future Goals **Wanna escape 9-5**
 
 
-
----
-
-### 📈 GitHub Stats:
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujtaywade&show_icons=true&theme=tokyonight&border_radius=10)
-![GitHub Streak](https://streak-stats.demolab.com?user=anujtaywade&theme=tokyonight&border_radius=10)
-
----
-
-⭐️ From [anujtaywade](https://github.com/anujtaywade)
