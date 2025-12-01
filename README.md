@@ -9,8 +9,8 @@
 ---
 
 ### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujtaywade&layout=compact&theme=tokyonight&border_radius=10&access_token=YOUR_TOKEN)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Taywade&layout=compact&theme=dark&hide_border=true)](https://github.com/Anuj-Taywade/github-readme-stats)
 
 ---
 
