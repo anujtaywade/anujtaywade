@@ -8,11 +8,6 @@
 
 ---
 
-### 📊 Most Used Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Taywade&layout=compact&theme=dark&hide_border=true)](https://github.com/Anuj-Taywade/github-readme-stats)
-
----
 
 ### 💻 Tech Stack:
 
