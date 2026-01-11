@@ -36,3 +36,4 @@
 ### 🌟 About Me
 - 🌱 Currently learning **MERN stack development**
 - 💡 Future Goals **Wanna escape 9-5**
+- ⚙️ Available for **Freelancing**
