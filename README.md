@@ -27,6 +27,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujtaywade&layout=compact)
+
+---
 
 ### 🌟 About Me
 - 🌱 Currently learning **MERN stack development**
